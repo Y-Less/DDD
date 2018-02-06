@@ -1,0 +1,11 @@
+{
+	"user": "Y-Less",
+	"repo": "DDD",
+	"entry": "DDD.pwn",
+	"output": "DDD.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"Y-Less/CCC",
+		"pawn-lang/CCC"
+	]
+}
