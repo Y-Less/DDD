@@ -5,7 +5,7 @@
 	"output": "DDD.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"Y-Less/CCC",
-		"pawn-lang/CCC"
+		"Y-Less/awesome-sampctl-dependency",
+		"pawn-lang/awesome-sampctl-dependency"
 	]
 }
