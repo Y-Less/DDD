@@ -1,8 +1,8 @@
 {
 	"user": "Y-Less",
-	"repo": "DDD",
-	"entry": "DDD.pwn",
-	"output": "DDD.amx",
+	"repo": "asampctl-two-identical-dependencies",
+	"entry": "main.pwn",
+	"output": "main.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"Y-Less/awesome-sampctl-dependency",
